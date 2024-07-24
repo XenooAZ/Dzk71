@@ -18,4 +18,5 @@ Pannel
 This tool is based on education and I will not be responsible for your actions ! (OSINT)
 It's an educational simulation ! OSINT
 
-![image](https://github.com/user-attachments/assets/e9ed4e0a-aafa-46fd-b7e0-1370098ba723)
+![image](https://github.com/user-attachments/assets/6a7b0699-d673-4996-8e34-ee1ea6ca1304)
+
