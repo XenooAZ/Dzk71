@@ -1,7 +1,7 @@
 # Dzk71
 Multi-tool
 
-Join the serv : https://discord.gg/zDnMBBdM , Open a ticket and ask for the tool
+Join the serv : https://discord.gg/JR6YUCaGVK , Open a ticket and ask for the tool
 
 Tool info owner.
 DataBases
