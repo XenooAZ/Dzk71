@@ -19,6 +19,7 @@ This tool is based on education and I will not be responsible for your actions !
 It's an educational simulation ! OSINT
 
 ![image](https://github.com/user-attachments/assets/6a7b0699-d673-4996-8e34-ee1ea6ca1304)
-![image](https://github.com/user-attachments/assets/9035f75c-9df9-4c95-97b7-3222cbaa2bcf)
+![image](https://github.com/user-attachments/assets/57a71471-bd7a-4560-b7df-2e55167419ba)
+
 
 
