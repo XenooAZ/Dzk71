@@ -20,6 +20,8 @@ It's an educational simulation ! OSINT
 
 ![image](https://github.com/user-attachments/assets/6a7b0699-d673-4996-8e34-ee1ea6ca1304)
 ![image](https://github.com/user-attachments/assets/57a71471-bd7a-4560-b7df-2e55167419ba)
+![image](https://github.com/user-attachments/assets/a6ce59a9-8c5c-4a04-ac47-fef691e6cbd3)
+
 
 
 
