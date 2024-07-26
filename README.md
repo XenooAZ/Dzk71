@@ -9,7 +9,8 @@ It's an educational simulation ! OSINT
 ___________________________________________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/6a7b0699-d673-4996-8e34-ee1ea6ca1304)
-![image](https://github.com/user-attachments/assets/cc90af46-3529-4164-bdd0-0d3d4a3b100c)
+![image](https://github.com/user-attachments/assets/fe41f68c-3857-48d7-9070-e9eac45f6ef9)
+
 
 
 
