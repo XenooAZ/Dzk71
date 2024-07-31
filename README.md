@@ -8,8 +8,7 @@ This tool is based on education and I will not be responsible for your actions !
 It's an educational simulation ! OSINT
 ___________________________________________________________________________________________________________________
 
-![image](https://github.com/user-attachments/assets/6a7b0699-d673-4996-8e34-ee1ea6ca1304)
-![image](https://github.com/user-attachments/assets/fe41f68c-3857-48d7-9070-e9eac45f6ef9)
+![image](https://github.com/user-attachments/assets/9c9a7985-3ad0-4803-b6a4-0e644a99cd56)
 
 
 
