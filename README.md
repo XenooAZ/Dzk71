@@ -8,7 +8,8 @@ This tool is based on education!  100 % (OSINT)
 100 % (OSINT)
 ___________________________________________________________________________________________________________________
 
-![image](https://github.com/user-attachments/assets/e1d50dbd-e47d-475b-9c58-660a8a8f5daa)
+![image](https://github.com/user-attachments/assets/9016adea-cd46-4a12-8d21-0365692874aa)
+
 
 And more ! Join my server discord !
 https://discord.gg/JR6YUCaGVK
