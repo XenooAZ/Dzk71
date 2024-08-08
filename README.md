@@ -7,8 +7,8 @@ Stars the tool , Join the serv : https://discord.gg/JR6YUCaGVK or .gg/dzk71  Ope
 This tool is based on education!  100 % (OSINT)
 100 % (OSINT)
 ___________________________________________________________________________________________________________________
+![image](https://github.com/user-attachments/assets/883fb37c-da70-469c-bfc2-e6558fb18237)
 
-![image](https://github.com/user-attachments/assets/9016adea-cd46-4a12-8d21-0365692874aa)
 
 
 And more ! Join my server discord !
