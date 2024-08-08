@@ -1,7 +1,7 @@
 # Dzk76
 Multi-tool
 
-Stars the tool , Join the serv : https://discord.gg/JR6YUCaGVK or .gg/dzk71  Open a ticket and ask for the tool
+Stars the tool , Join the serv :.gg/dzk71  Open a ticket and ask for the tool
 
 
 This tool is based on education! 
